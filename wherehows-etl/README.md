@@ -2,13 +2,13 @@
 
 This directory contains the code for all the ETL jobs that WhereHows can run.
 
-1. [HDFS Dataset](#hdfs-dataaset)
-1. [Teradata Dataset](#teradata-dataaset)
-1. [Oracle Dataset](#oracle-dataaset)
+1. [HDFS Dataset](#hdfs-dataset)
+1. [Teradata Dataset](#teradata-dataset)
+1. [Oracle Dataset](#oracle-dataset)
 1. [Hive Dataset](#hive-dataset)
 1. [Azkaban Execution](#azkaban-execution)
 1. [Oozie Execution](#oozie-execution)
-1. [Appworx Execution](#appwox-execution)
+1. [Appworx Execution](#appworx-execution)
 1. [Azkaban Lineage](#azkaban-lineage)
 1. [Appworx Lineage](#appworx-lineage)
 1. [Elastic Search](#elastic-search)
