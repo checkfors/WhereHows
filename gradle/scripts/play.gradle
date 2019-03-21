@@ -34,3 +34,8 @@ idea {
         scopes.TEST = [plus: [configurations.playTest], minus: [configurations.playRun]]
     }
 }
+
+// used for eclipse to recognized play project
+eclipse.classpath {
+    plusConfigurations += [configurations.play, configurations.playTest, configurations.playRun]
+}
